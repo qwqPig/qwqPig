@@ -4,4 +4,4 @@ I am a middle school boy from China,I’m new here,Please cut me a little slack,
 I can speak a little English and use a translator for the rest.
 Programming language for daily use: Python/HTML or PHP
 </p>
-<a href="https://blog.hhhc.ga/" target="_blank"><strong>My Blog</strong></a>
+Welcome To <a href="https://blog.hhhc.ga/" target="_blank"><strong>My Blog</strong></a>
